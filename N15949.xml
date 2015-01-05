@@ -110,8 +110,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:020410_0000_0FAF08F9F2C74480"/>
-            <pb facs="tcp:020410_0001_0FAF08FAE0DA7620" rendition="simple:additions"/>
+            <pb facs="unknown:020410_0000_0FAF08F9F2C74480"/>
+            <pb facs="unknown:020410_0001_0FAF08FAE0DA7620"
+                rendition="simple:additions"/>
             <p>THE TRIUMPHS OF TEMPER: A <hi>POEM;</hi> IN SIX CANTOS.</p>
             <p>BY WILLIAM HAYLEY. <abbr>ESQ</abbr>
             </p>
@@ -124,24 +125,24 @@
             <p>PHILADELPHIA: PRINTED FOR T. SEDDON, IN MARKET-STREET M,DCC,LXXXVII.</p>
          </div>
          <div type="preface">
-            <pb facs="tcp:020410_0002_0FAF08FB3322D5E8"/>
+            <pb facs="unknown:020410_0002_0FAF08FB3322D5E8"/>
             <head>THE PREFACE.</head>
             <p>IT ſeems to be a kind of duty incumbent on thoſe who devote themſelves to Poetry, to raiſe, if poſ<g ref="char:EOLhyphen"/>ſible, the dignity of a declining Art, by making it as beneficial to Life and Manners as the limits of Com<g ref="char:EOLhyphen"/>poſition, and the character of modern Times will allow: The ages, indeed, are paſt, in which the ſong of the Poet was idolized for its MIRACULOUS EFFECTS; yet a Poem, intended to promote the cultivation of good-humour, may ſtill, perhaps, be fortunate enough to prove of ſome little ſervice to ſociety in general; or, if this idea may be thought too chimerical and ro<g ref="char:EOLhyphen"/>mantic by ſober Reaſon, it is at leaſt one of thoſe pleaſing and innocent deluſions, in which a political Enthuſiaſt may be ſafely indulged.</p>
             <p>
-               <pb n="iv" facs="tcp:020410_0003_0FAF08FBF3502B60"/>THE following production owes its exiſtence to an incident in real life, very ſimilar to the principal ac<g ref="char:EOLhyphen"/>tion of the laſt Canto; but in forming the general plan of the work, it ſeemed to me abſolutely neceſ<g ref="char:EOLhyphen"/>ſary to introduce both the agency and the abode of SPLEEN, notwithſtanding the difficulty and the ha<g ref="char:EOLhyphen"/>zard of attempting a ſubject ſo happily executed by the maſterly pencil of Pope. I conſidered his Cave of Spleen as a moſt exquiſite cabinet picture; and, to avoid the ſervility of imitation, I determined to ſketch the manſion of this gloomy Power on a much wider canvaſs: Happy, indeed, if the judgment of the public may enable me to exclaim, with the honeſt vanity of the Painter, who compared his own works to the divine productions of Raphael,
+               <pb n="iv" facs="unknown:020410_0003_0FAF08FBF3502B60"/>THE following production owes its exiſtence to an incident in real life, very ſimilar to the principal ac<g ref="char:EOLhyphen"/>tion of the laſt Canto; but in forming the general plan of the work, it ſeemed to me abſolutely neceſ<g ref="char:EOLhyphen"/>ſary to introduce both the agency and the abode of SPLEEN, notwithſtanding the difficulty and the ha<g ref="char:EOLhyphen"/>zard of attempting a ſubject ſo happily executed by the maſterly pencil of Pope. I conſidered his Cave of Spleen as a moſt exquiſite cabinet picture; and, to avoid the ſervility of imitation, I determined to ſketch the manſion of this gloomy Power on a much wider canvaſs: Happy, indeed, if the judgment of the public may enable me to exclaim, with the honeſt vanity of the Painter, who compared his own works to the divine productions of Raphael,
 <q>E ſon Pittore anch' Io!</q>
             </p>
             <p>THE celebrated Aleſſandro Taſſoni, who is gene<g ref="char:EOLhyphen"/>rally conſidered as the inventor of the modern Heroi<g ref="char:EOLhyphen"/>comic Poetry, was ſo proud of having extended the limits of his art by a new kind of compoſition, that he not only ſpoke of it with infinite exultation in one of his private letters, but even gave a MS copy of his work to his native city of Modena, with an inſcrip<g ref="char:EOLhyphen"/>tion, in which he ſtyled it a new ſpecies of Poetry, invented by himſelf.</p>
             <p>
-               <pb n="v" facs="tcp:020410_0004_0FAF08FE42A523A8"/>A FEW partial friends have aſſerted, that the preſent performance has ſome degree of ſimilar merit; but as I apprehend all the novelty it poſſeſſes, may rather re<g ref="char:EOLhyphen"/>quire an apology, than entitle its Author to challenge commendation, I ſhall explain how far the conduct of the Poem differs from the moſt approved models in this mode of writing, and ſlightly mention the poeti<g ref="char:EOLhyphen"/>cal effects, which ſuch a variation appeared likely to produce.</p>
+               <pb n="v" facs="unknown:020410_0004_0FAF08FE42A523A8"/>A FEW partial friends have aſſerted, that the preſent performance has ſome degree of ſimilar merit; but as I apprehend all the novelty it poſſeſſes, may rather re<g ref="char:EOLhyphen"/>quire an apology, than entitle its Author to challenge commendation, I ſhall explain how far the conduct of the Poem differs from the moſt approved models in this mode of writing, and ſlightly mention the poeti<g ref="char:EOLhyphen"/>cal effects, which ſuch a variation appeared likely to produce.</p>
             <p>IT is well known, that the favorite Poems, which blend the ſerious and the comic, repreſent their prin<g ref="char:EOLhyphen"/>cipal characters in a ſatirical point of view: It was the intention of Taſſoni (though prudence made him attempt to conceal it) to ſatirize a particular Italian Nobleman, who happened to be the object of his re<g ref="char:EOLhyphen"/>ſentment. Boileau openly ridicules the French Eccle<g ref="char:EOLhyphen"/>ſiaſtics in his Lutrin; Garth, our Engliſh Phyſicians, in his Diſpenſary; and the Rape of the Lock itſelf, that moſt excellent and enchanting Poem, which I ne<g ref="char:EOLhyphen"/>ver contemplate but with new idolatry, is denomi<g ref="char:EOLhyphen"/>nated THE BEST SATIRE EXTANT, by the learned Dr. Warton, in his very elegant and ingenious, but ſevere Eſſay on Pope: A ſentence which ſeems to be confirmed by the Poet himſelf, in his letter to Mrs. Fermor, where he ſays, <q>The character of Belinda,
-<pb n="vi" facs="tcp:020410_0005_0FAF08FF49D5FD78"/>
+<pb n="vi" facs="unknown:020410_0005_0FAF08FF49D5FD78"/>
 as it is now managed, reſembles you in nothing but beauty.</q> Though I think, that no compoſition can ſurpaſs, or perhaps ever equal this moſt happy effort of Genius, as a ſportive Satire, I imagined it might be poſſible to give a new Character to this mixed ſpecies of Poetry, and to render it by its Object, though not in its Execution, more noble than the moſt beautiful and refined Satire can be. We have ſeen it carried to inimitable perfection, in the moſt delicate raillery on Female Foibles:—It remained to be tried, if it might not alſo aſpire to delineate the more engaging features of Female Excellence. The idea appeared to me worth the experiment; for, if it ſucceeded, it ſeemed to promiſe a double advantage; firſt, it would give an air of novelty to the Poem; and, ſecondly, what I thought of much greater importance, it would render it more intereſting to the heart. On theſe principles, I have endeavored to paint SERENA as a moſt lovely, engaging, and accompliſhed character; yet I hope the colouring is ſo faithfully copied from GENERAL NATURE, that, every man, who reads the Poem, may be happy enough to know many Fair ones, who reſemble my Heroine.</p>
             <p>THERE is another point, in which I have alſo at<g ref="char:EOLhyphen"/>tempted to give this Poem an air of novelty: I mean, the manner of connecting the real and the viſionary
-<pb n="vii" facs="tcp:020410_0006_0FAF08FFAFDBB580"/>
+<pb n="vii" facs="unknown:020410_0006_0FAF08FFAFDBB580"/>
 ſcenes, which compoſe it; by ſhifting theſe in alter<g ref="char:EOLhyphen"/>nate Cantos, I hoped to make familiar Incident and allegorical Picture afford a ſtrong relief to each other, and keep the attention of the Reader alive, by an ap<g ref="char:EOLhyphen"/>pearance particularly diverſified. I wiſhed, indeed (but I fear moſt ineffectually) for powers to unite ſome touches of the ſportive wildneſs of Arioſto, and the more ſerious ſublime painting of Dante, with ſome portion of the enchanting elegance, the refined imagi<g ref="char:EOLhyphen"/>nation, and the moral graces of Pope; and to do this, if poſſible, without violating thoſe rules of propriety, which Mr. Cambridge has illuſtrated, by example as well as precept, in the Scribleriad, and in his ſenſible Preface to that elegant and learned Poem.</p>
             <p>I HAVE now very frankly informed my Reader of the EXTENT, or rather of the EXTRAVAGANCE of my deſire; for I will not give it the name of DESIGN:— They, whom an enlightened taſte has rendered tho<g ref="char:EOLhyphen"/>roughly ſenſible how very difficult it muſt be to ac<g ref="char:EOLhyphen"/>compliſh ſuch an idea, will not only be the firſt to diſcern, but the moſt ready to pardon thoſe errors, in<g ref="char:EOLhyphen"/>to which ſo hazardous an attempt may perhaps have betrayed me. I had thoughts of introducing this per<g ref="char:EOLhyphen"/>formance to the Public, by a Diſſertation of conſidera<g ref="char:EOLhyphen"/>ble length on this ſpecies of Poetry; but I forbear to indulge myſelf any farther in ſuch preliminary remarks,
-<pb n="viii" facs="tcp:020410_0007_0FAF09007A795088"/>
+<pb n="viii" facs="unknown:020410_0007_0FAF09007A795088"/>
 as the anxiety of authors is ſo apt to produce, from the reflection, that, however ingeniouſly written, they add little or nothing to the ſucceſs of a good Poem and are utterly inſufficient to prevent that neglect, or oblivion, which is the inevitable fate of a bad one.</p>
             <p>IN diſmiſſing a work to my Fair Readers, which is intended principally for their peruſal, I ſhall only re<g ref="char:EOLhyphen"/>commend it to their attention; and bid them farewell, in the words of the pleaſant and courteous Taſſoni—
 <q>
@@ -157,7 +158,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
       </front>
       <body>
          <div type="poem">
-            <pb facs="tcp:020410_0008_0FAF0901B4121018"/>
+            <pb facs="unknown:020410_0008_0FAF0901B4121018"/>
             <head>THE <hi>TRIUMPHS of TEMPER.</hi>
             </head>
             <div n="1" type="canto">
@@ -181,7 +182,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>Your ſweeter myrtle round his honor'd head.</l>
                </lg>
                <lg>
-                  <pb n="2" facs="tcp:020410_0009_0FAF090208629F28"/>
+                  <pb n="2" facs="unknown:020410_0009_0FAF090208629F28"/>
                   <l>IN yon bright circle young SERENA grew;</l>
                   <l>A lovelier nymph the pencil never drew;</l>
                   <l>For the fond Graces form'd her eaſy mien,</l>
@@ -213,7 +214,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>Tho' from her birth no envied rank ſhe gain'd,</l>
                   <l>And of her beauty but the ghoſt remain'd;</l>
                   <l>
-                     <pb n="3" facs="tcp:020410_0010_0FAF0902C0443108"/>A reſtleſs ghoſt! that with remembrance keen</l>
+                     <pb n="3" facs="unknown:020410_0010_0FAF0902C0443108"/>A reſtleſs ghoſt! that with remembrance keen</l>
                   <l>Proclaim'd inceſſant what it once had been;</l>
                   <l n="45">Delighted ſtill the ſteps of youth to haunt,</l>
                   <l>To watch the tender nymph, and warm gallant;</l>
@@ -244,7 +245,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>The touching ſcenes new energy impreſt</l>
                   <l>On all the virtues of her feeling breaſt.</l>
                   <l>
-                     <pb n="4" facs="tcp:020410_0011_0FAF090383DE8638"/>Sweet Evilina's faſcinating power</l>
+                     <pb n="4" facs="unknown:020410_0011_0FAF090383DE8638"/>Sweet Evilina's faſcinating power</l>
                   <l n="70">Had firſt beguil'd of ſleep her midnight hour:</l>
                   <l>Poſſeſs'd by Sympathy's enchanting ſway,</l>
                   <l>She <gap reason="illegible" resp="#UOM" extent="2 letters">
@@ -275,7 +276,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>Her burniſh'd breaſt-plate, of a deeper dye,</l>
                   <l>Was once the armour of a golden fly:</l>
                   <l n="95">
-                     <pb n="5" facs="tcp:020410_0012_0FAF090434595248"/>A lynx's eye her little aegis ſhone,</l>
+                     <pb n="5" facs="unknown:020410_0012_0FAF090434595248"/>A lynx's eye her little aegis ſhone,</l>
                   <l>By fairy ſpells converted into ſtone,</l>
                   <l>And worn of old as elſin poets ſing,</l>
                   <l>By Aegypt's lovely queen, a favorite ring:</l>
@@ -302,7 +303,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>When, pleas'd at length her quivering wings to cloſe,</l>
                   <l n="120">Fondly ſhe ſettles on the fragrant roſe.</l>
                   <l>
-                     <pb n="6" facs="tcp:020410_0013_0FAF0904EF6DE050"/>Now in ſoft notes, more muſically clear</l>
+                     <pb n="6" facs="unknown:020410_0013_0FAF0904EF6DE050"/>Now in ſoft notes, more muſically clear</l>
                   <l>Than ever Fairy breath'd to mortal ear,</l>
                   <l>Theſe words the viſionary voice convey'd</l>
                   <l>To the charm'd ſpirit of the ſleeping maid:</l>
@@ -332,7 +333,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>Thy heart demands, each meaner aim above,</l>
                   <l>Th' imperiſhable wealth of ſterling love;</l>
                   <l>
-                     <pb n="7" facs="tcp:020410_0014_0FAF090762CA72C8"/>Thy wiſh, to pleaſe by ev'ry ſofter grace</l>
+                     <pb n="7" facs="unknown:020410_0014_0FAF090762CA72C8"/>Thy wiſh, to pleaſe by ev'ry ſofter grace</l>
                   <l>Of elegance and eaſe, of form and face!</l>
                   <l n="150">By lively fancy and by ſenſe refin'd,</l>
                   <l>The ſtronger magic of the cultur'd mind!</l>
@@ -361,7 +362,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>Sweet Senſibility, ſweet Beauty's ſoul!</l>
                   <l>Keeps her coy ſtate, and animates the whole,</l>
                   <l>
-                     <pb n="8" facs="tcp:020410_0015_0FAF090855C70708"/>Inviſible as Harmony, who ſprings,</l>
+                     <pb n="8" facs="unknown:020410_0015_0FAF090855C70708"/>Inviſible as Harmony, who ſprings,</l>
                   <l n="175">Wak'd by young Zephyr, from Aeolian ſtrings:</l>
                   <l>Her ſubtle power, more delicately fine,</l>
                   <l>Dwells in each thread, and lives in ev'ry line,</l>
@@ -392,7 +393,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l n="200">THE Powers of Miſchief met in dark Divan,</l>
                   <l>To blaſt theſe mighty joys of envied Man:</l>
                   <l>
-                     <pb n="9" facs="tcp:020410_0016_0FAF090A01BEBF30"/>The Fiends, at their infernal Leader's call,</l>
+                     <pb n="9" facs="unknown:020410_0016_0FAF090A01BEBF30"/>The Fiends, at their infernal Leader's call,</l>
                   <l>Fram'd their baſe wiles in Demogorgon's hall,</l>
                   <l>In the deep center of that dreadful dome,</l>
                   <l n="205">An helliſh cauldron boil'd with fiery foam:</l>
@@ -421,7 +422,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>With darkeſt poiſons from our deep abyſs,</l>
                   <l>Taint that pure fountain of terreſtrial bliſs!</l>
                   <l n="230">
-                     <pb n="10" facs="tcp:020410_0017_0FAF090A31A35A08"/>Th' enormous Phantom, at this potent ſound,</l>
+                     <pb n="10" facs="unknown:020410_0017_0FAF090A31A35A08"/>Th' enormous Phantom, at this potent ſound,</l>
                   <l>Roll'd forth obedient from the vaſt profound:</l>
                   <l>The quaking Fiends recover'd from their dread,</l>
                   <l>And hell grew lighter as the monſter fled.</l>
@@ -450,7 +451,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>The ſickly boſom pants for noiſe and ſhew,</l>
                   <l>For every bauble, and for every beau;</l>
                   <l>
-                     <pb n="11" facs="tcp:020410_0018_0FAF090AF7EF1F50"/>The voice, that Health made harmony, diſowns</l>
+                     <pb n="11" facs="unknown:020410_0018_0FAF090AF7EF1F50"/>The voice, that Health made harmony, diſowns</l>
                   <l>That native charm for Langour's mimic tones;</l>
                   <l n="260">And feigns diſeaſe, till, feeling what it feigns,</l>
                   <l>Its fancied maladies are real pains.</l>
@@ -481,7 +482,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>To ſmooth the ruffled plume of Zephyr's wing,</l>
                   <l n="285">To guard from cruel froſt the infant ſpring,</l>
                   <l>
-                     <pb n="12" facs="tcp:020410_0019_0FAF090BB8A41770"/>To drive groſs atoms from the rays of noon,</l>
+                     <pb n="12" facs="unknown:020410_0019_0FAF090BB8A41770"/>To drive groſs atoms from the rays of noon,</l>
                   <l>Or chaſe the halo from the vapouriſh moon!</l>
                   <l>Thy friendly nature will not now deny</l>
                   <l>To quit for nobler toils thy native ſky;</l>
@@ -510,7 +511,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>Still I preſerve, in many a lovely face,</l>
                   <l>That gay good-humour, and that conſtant grace,</l>
                   <l>
-                     <pb n="13" facs="tcp:020410_0020_0FAF090C6F036E50"/>Which heavenly Powers united to unfold</l>
+                     <pb n="13" facs="unknown:020410_0020_0FAF090C6F036E50"/>Which heavenly Powers united to unfold</l>
                   <l n="315">In perfect Woman's new-created mould;</l>
                   <l>When Nature, in her infant beauty bleſt,</l>
                   <l>The laſt and lovelieſt of her works careſt.</l>
@@ -539,7 +540,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l n="340">With whom thy innocence, ſecure from ſtrife,</l>
                   <l>Shall reap the beauteous joys of blameleſs life.</l>
                   <l>
-                     <pb n="14" facs="tcp:020410_0021_0FAF090D69D45BD8"/>Pleas'd I obſerve thy little heart begin</l>
+                     <pb n="14" facs="unknown:020410_0021_0FAF090D69D45BD8"/>Pleas'd I obſerve thy little heart begin</l>
                   <l>To aſk what charms the mighty prize may win:</l>
                   <l>But know, tho' elegance herſelf be ſeen</l>
                   <l n="346">To guide thy motion, and to form thy mien;</l>
@@ -572,7 +573,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>Perchance three prime ſupporters of her ſway,</l>
                   <l>The buſieſt of her Friends, may croſs thy way:</l>
                   <l n="370">
-                     <pb n="15" facs="tcp:020410_0022_0FAF09102756FFC8"/>Stern Contradiction, her ill-favor'd child,</l>
+                     <pb n="15" facs="unknown:020410_0022_0FAF09102756FFC8"/>Stern Contradiction, her ill-favor'd child,</l>
                   <l>Of fierce demeanor, and of ſpirit wild,</l>
                   <l>Bane of delight! and horror of the ſex!</l>
                   <l>His plan to puzzle, and his pride to vex!—</l>
@@ -602,7 +603,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l n="395">And ſilver ſpangles form'd the mimic flowers;</l>
                   <l>On theſe my love ſhall breathe a ſecret charm;</l>
                   <l>
-                     <pb n="16" facs="tcp:020410_0023_0FAF0911150A4E88"/>With this, my Caeſtus, thy ſoft boſom arm!</l>
+                     <pb n="16" facs="unknown:020410_0023_0FAF0911150A4E88"/>With this, my Caeſtus, thy ſoft boſom arm!</l>
                   <l>Above it let the decent tucker riſe,</l>
                   <l>To hide the myſtic band from mortal eyes!</l>
                   <l n="400">When Spleen's dull Powers would teach that breaſt to ſwell</l>
@@ -631,7 +632,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                <trailer>END OF THE FIRST CANTO.</trailer>
             </div>
             <div n="2" type="canto">
-               <pb n="17" facs="tcp:020410_0024_0FAF091221A76310"/>
+               <pb n="17" facs="unknown:020410_0024_0FAF091221A76310"/>
                <head>CANTO II.</head>
                <lg>
                   <l>YE radiant Nymphs! whoſe opening eyes convey</l>
@@ -657,7 +658,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>With ſportive grace the ſmiling damſel preſt</l>
                   <l>The guardian cincture to her ſnowy breaſt,</l>
                   <l>
-                     <pb n="18" facs="tcp:020410_0025_0FAF09127081D8C0"/>More lovely far than Juno, when ſhe ſtrove</l>
+                     <pb n="18" facs="unknown:020410_0025_0FAF09127081D8C0"/>More lovely far than Juno, when ſhe ſtrove</l>
                   <l>To look moſt lovely in the eyes of Jove;</l>
                   <l n="25">And willing Venus lent her ev'ry power,</l>
                   <l>That ſheds enchantment o'er the amorous hour:</l>
@@ -688,7 +689,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>Who conſtant as the ſteps of morn advance,</l>
                   <l n="50">Surveys the houſhold with a ſearching glance;</l>
                   <l>
-                     <pb n="19" facs="tcp:020410_0026_0FAF0913386B2550"/>And entering now, with all her uſual care,</l>
+                     <pb n="19" facs="unknown:020410_0026_0FAF0913386B2550"/>And entering now, with all her uſual care,</l>
                   <l>Reviews the chamber of the youthful Fair.</l>
                   <l>Beneath the pillow, not compleatly hid,</l>
                   <l>The Novel lay—She ſaw—ſhe ſeiz'd—ſhe chid:</l>
@@ -721,7 +722,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>NOW in full charms deſcends the finiſh'd Fair,</l>
                   <l>For now the morning banquet claims her care;</l>
                   <l>
-                     <pb n="20" facs="tcp:020410_0027_0FAF0913F5830538"/>Already at the board with viands pil'd,</l>
+                     <pb n="20" facs="unknown:020410_0027_0FAF0913F5830538"/>Already at the board with viands pil'd,</l>
                   <l n="80">Her Sire impatient ſits, and chides his tardy child.</l>
                   <l>On his imperial lips rude Hunger reigns,</l>
                   <l>And keener Politics uſurp his brains:</l>
@@ -750,7 +751,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l n="105">PENELOPE from her high chamber peeps;</l>
                   <l>There her unfiniſh'd charms ſhe coyly keeps;</l>
                   <l>
-                     <pb n="21" facs="tcp:020410_0028_0FAF0914AFA71CA8"/>With ſage reſerve her modeſty abhorr'd</l>
+                     <pb n="21" facs="unknown:020410_0028_0FAF0914AFA71CA8"/>With ſage reſerve her modeſty abhorr'd</l>
                   <l>To ſhew her morning face before a Lord.</l>
                </lg>
                <lg>
@@ -783,7 +784,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>For their broad ſhoulder, and their brawny calf,</l>
                   <l>Their coarſe, loud language, and their coarſer laugh,</l>
                   <l n="135">
-                     <pb n="22" facs="tcp:020410_0029_0FAF0915A418BCE8"/>His finer form, more elegantly ſlim,</l>
+                     <pb n="22" facs="unknown:020410_0029_0FAF0915A418BCE8"/>His finer form, more elegantly ſlim,</l>
                   <l>Diſplays the faſhionable length of limb:</l>
                   <l>With foreign ſhrugs his country he regards,</l>
                   <l>And her lean tongue with foreign words he lards;</l>
@@ -810,7 +811,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>But what new flutterings ſhook SERENA'S breaſt,</l>
                   <l n="160">What hopes and fears the modeſt Nymph oppreſt,</l>
                   <l>
-                     <pb n="23" facs="tcp:020410_0030_0FAF091632600EA0"/>When with a ſimpering ſmile, and ſoft regard,</l>
+                     <pb n="23" facs="unknown:020410_0030_0FAF091632600EA0"/>When with a ſimpering ſmile, and ſoft regard,</l>
                   <l>The Peer diſplay'd a mirth-expreſſive card,</l>
                   <l>Where the gay Graces, in a ſportive band,</l>
                   <l>Shew the ſweet art of Cipriani's hand;</l>
@@ -839,7 +840,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>With ſuch a tender, and perſuaſive air</l>
                   <l>Of ſoft endearment, and of anxious care,</l>
                   <l>
-                     <pb n="24" facs="tcp:020410_0031_0FAF0918F48E6C08"/>Thetis attending from th' almighty Sire</l>
+                     <pb n="24" facs="unknown:020410_0031_0FAF0918F48E6C08"/>Thetis attending from th' almighty Sire</l>
                   <l n="190">His fateful anſwer to her fond deſire:</l>
                   <l>The good old Knight, like the Olympian God,</l>
                   <l>Bleſt the fair Suppliant with his gracious nod;</l>
@@ -872,7 +873,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l n="215">And ſees his ſoul that blaze of dreſs outſhine,</l>
                   <l>Whoſe wealth impoveriſh'd a diamond-mine;</l>
                   <l>
-                     <pb n="25" facs="tcp:020410_0032_0FAF091A78D20D10"/>Now ſimpler charms her quick attention draw,</l>
+                     <pb n="25" facs="unknown:020410_0032_0FAF091A78D20D10"/>Now ſimpler charms her quick attention draw,</l>
                   <l>The roſe-crown'd bonnet, and the hat of ſtraw,</l>
                   <l>A Village-maid ſhe ſeems, in neat attire,</l>
                   <l n="220">A faithful Shepherd now her ſole deſire.</l>
@@ -909,7 +910,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>And thinks the faſhionable ſilk muſt prove</l>
                   <l>Her robe of triumph, and a ſpell to Love!</l>
                   <l>
-                     <pb n="26" facs="tcp:020410_0033_0FAF091ABA23D1D0"/>To thee, ſweet Maid, whoſe pleaſure-darting eyes</l>
+                     <pb n="26" facs="unknown:020410_0033_0FAF091ABA23D1D0"/>To thee, ſweet Maid, whoſe pleaſure-darting eyes</l>
                   <l n="240">Joy in this favorite veſt, an hour ſhall riſe,</l>
                   <l>When thou ſhalt hate the ſilk ſo fondly ſought,</l>
                   <l>And wiſh thy ſilver-ſpotted gauze unbought:</l>
@@ -942,7 +943,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>By fooliſh fondneſs of your ſenſe beguil'd,</l>
                   <l>You ſtill indulge, and ſpoil the ſlippant child:</l>
                   <l n="265">
-                     <pb n="27" facs="tcp:020410_0034_0FAF091B84EA5CA0"/>For me, whate'er I ſay is deem'd abſurd;</l>
+                     <pb n="27" facs="unknown:020410_0034_0FAF091B84EA5CA0"/>For me, whate'er I ſay is deem'd abſurd;</l>
                   <l>She ſcorns my ſage advice:—but mark my word,</l>
                   <l>If to this ball you let the Hoyden run,</l>
                   <l>Your power is ended, and the Girl undone."</l>
@@ -975,7 +976,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>Thus the departing Fury left behind</l>
                   <l>Her venom, latent in Sir GILBERT'S mind.</l>
                   <l>
-                     <pb n="28" facs="tcp:020410_0035_0FAF091C3040DC08"/>The hidden miſchief tho' no eye obſerves,</l>
+                     <pb n="28" facs="unknown:020410_0035_0FAF091C3040DC08"/>The hidden miſchief tho' no eye obſerves,</l>
                   <l>He feels it fretting on his alter'd nerves;</l>
                   <l n="295">But the kind habit of his healthy ſoul</l>
                   <l>Still ſtruggled hard againſt its baſe controul.</l>
@@ -1006,7 +1007,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>She craves his pardon; but, for time diſtreſt,</l>
                   <l>She ſtill is buſy on her magic veſt;</l>
                   <l>
-                     <pb n="29" facs="tcp:020410_0036_0FAF091D225F83C8"/>To range her diamonds in a ſparkling Zone,</l>
+                     <pb n="29" facs="unknown:020410_0036_0FAF091D225F83C8"/>To range her diamonds in a ſparkling Zone,</l>
                   <l n="320">She begs to ſnatch her ſcanty meal alone.</l>
                </lg>
                <lg>
@@ -1039,7 +1040,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>At length, each duty of the toilet paſt,</l>
                   <l>The glance of triumph on the mirror caſt,</l>
                   <l n="345">
-                     <pb n="30" facs="tcp:020410_0037_0FAF091DE99A9E98"/>Now the light wand our finiſh'd Ariel arms;</l>
+                     <pb n="30" facs="unknown:020410_0037_0FAF091DE99A9E98"/>Now the light wand our finiſh'd Ariel arms;</l>
                   <l>Glad Jenny glories in her Lady's charms;</l>
                   <l>And gives full utterance, as ſhe ſmooths her reſt,</l>
                   <l>To the ſweet bodings of SERENA'S breaſt.</l>
@@ -1073,7 +1074,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l n="370">But that, reſolv'd her utmoſt force to try,</l>
                   <l>She ſummon'd to her aid her old ally,</l>
                   <l>
-                     <pb n="31" facs="tcp:020410_0038_0FAF091E7422DCE0"/>The fiery Demon, temper-troubling Gout,</l>
+                     <pb n="31" facs="unknown:020410_0038_0FAF091E7422DCE0"/>The fiery Demon, temper-troubling Gout,</l>
                   <l>Who ſinks the lively, and appals the ſtout:</l>
                   <l>Who now aſſiſting Spleen's malignant aim,</l>
                   <l>Shoots in quick throbbings thro' Sir GILBERT'S frame,</l>
@@ -1104,7 +1105,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>Ah fruitleſs hope! for there ſhe cannot find</l>
                   <l>The well-known ſignals of the friendly mind.</l>
                   <l n="400">
-                     <pb n="32" facs="tcp:020410_0039_0FAF091F31502158"/>Stern Contradiction, with the frown of Fate,</l>
+                     <pb n="32" facs="unknown:020410_0039_0FAF091F31502158"/>Stern Contradiction, with the frown of Fate,</l>
                   <l>On his dark viſage reign'd in ſullen ſtate;</l>
                   <l>Felt in each feature, in each accent ſhewn,</l>
                   <l>Lower'd in his look, and thunder'd in his tone.</l>
@@ -1133,7 +1134,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>Reviving Gaiety full luſtre ſpread</l>
                   <l>O'er all her features, and with ſmiles ſhe ſaid:</l>
                   <l>
-                     <pb n="33" facs="tcp:020410_0040_0FAF091FFA65E3E0"/>"Let others drive to pleaſure's diſtant dome!</l>
+                     <pb n="33" facs="unknown:020410_0040_0FAF091FFA65E3E0"/>"Let others drive to pleaſure's diſtant dome!</l>
                   <l>Be mine the dearer joys to pleaſe at home!"</l>
                   <l n="430">Scarce had ſhe ſpoke, when ſhe with ſportive eaſe</l>
                   <l>Preſt her Piano-forte's fav'rite keys,</l>
@@ -1166,7 +1167,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>Much he inclines his mandate to recal,</l>
                   <l n="455">And ſend the Fair one to the promis'd Ball;</l>
                   <l>
-                     <pb n="34" facs="tcp:020410_0041_0FAF0920AE970468"/>But ſtubborn Pride forbids him to revoke</l>
+                     <pb n="34" facs="unknown:020410_0041_0FAF0920AE970468"/>But ſtubborn Pride forbids him to revoke</l>
                   <l>The ſolemn ſentence which Ill-humour ſpoke.</l>
                   <l>Still conſcious of her power, the Nymph prolongs</l>
                   <l>The ſoft enchantment of her ſoothing ſongs;</l>
@@ -1202,7 +1203,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                <trailer>END OF THE SECOND CANTO.</trailer>
             </div>
             <div n="3" type="canto">
-               <pb n="35" facs="tcp:020410_0042_0FAF09233AE33200"/>
+               <pb n="35" facs="unknown:020410_0042_0FAF09233AE33200"/>
                <head>CANTO III.</head>
                <lg>
                   <l>YE kind Tranſporters of the excurſive ſoul!</l>
@@ -1231,7 +1232,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>AH, fair SERENA, might the boaſt be ours</l>
                   <l>To clear from ſuch a charge theſe heavenly Powers!</l>
                   <l>
-                     <pb n="36" facs="tcp:020410_0043_0FAF09242F214AD8"/>Bleſt! might thy Bard deſerve in fame to ſee</l>
+                     <pb n="36" facs="unknown:020410_0043_0FAF09242F214AD8"/>Bleſt! might thy Bard deſerve in fame to ſee</l>
                   <l>A guard as faithful, as Love proves to thee!</l>
                   <l n="25">Bleſt! if that airy Being gild his life,</l>
                   <l>Who ſav'd thee trembling on the brink of ſtrife,</l>
@@ -1262,7 +1263,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>Till now, recovering by degrees, ſhe found</l>
                   <l n="50">Her ſoft foot preſs upon the ſolid ground.</l>
                   <l>
-                     <pb n="37" facs="tcp:020410_0044_0FAF09257A178560"/>Encourag'd by her Guide, at length ſhe tries</l>
+                     <pb n="37" facs="unknown:020410_0044_0FAF09257A178560"/>Encourag'd by her Guide, at length ſhe tries</l>
                   <l>To ſearch the gloomy ſcene, with anxious eyes.</l>
                </lg>
                <lg>
@@ -1305,7 +1306,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>The pining band within ſhe now eſpied,</l>
                   <l>And, touch'd with tender indignation, cried,</l>
                   <l>
-                     <pb n="38" facs="tcp:020410_0045_0FAF0925F1712A60"/>"How could theſe little forms, of life ſo brief,</l>
+                     <pb n="38" facs="unknown:020410_0045_0FAF0925F1712A60"/>"How could theſe little forms, of life ſo brief,</l>
                   <l>Deſerve this dire abode of laſting grief?"</l>
                   <l n="75">"—Well may thy gentle heart be ſore concern'd</l>
                   <l>At ſight ſo moving," the mild Sprite return'd:</l>
@@ -1336,7 +1337,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>A ſudden light ſoon ſtruck her dazzled view;</l>
                   <l n="100">But 'twas a light of ſuch infernal hue,</l>
                   <l>
-                     <pb n="39" facs="tcp:020410_0046_0FAF0926B1DAB9D0"/>As double horror to the darkneſs gave</l>
+                     <pb n="39" facs="unknown:020410_0046_0FAF0926B1DAB9D0"/>As double horror to the darkneſs gave</l>
                   <l>With dread reflection from a duſky wave.</l>
                   <l>Round a black water tatter'd ſpectres ſtand,</l>
                   <l>With each a tiny taper in its hand;</l>
@@ -1365,7 +1366,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>Nor touch the ſtream, which mortal ſenſe o'ercomes,</l>
                   <l>And by its baleful charm the ſoul benumbs!"</l>
                   <l>
-                     <pb n="40" facs="tcp:020410_0047_0FAF09276EC9A170"/>"—Can mortal paſs?" the ſhudd'ring Nymph replied,</l>
+                     <pb n="40" facs="unknown:020410_0047_0FAF09276EC9A170"/>"—Can mortal paſs?" the ſhudd'ring Nymph replied,</l>
                   <l n="130">"This ſullen, ſlow, unnavigable tide,</l>
                   <l>In whoſe black current this enormous mound</l>
                   <l>Of ſhapeleſs ſtone appears, this horrid bound,</l>
@@ -1395,7 +1396,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>So thro' this arching rock thou'lt paſs alone,</l>
                   <l n="155">Safe from the perils of th' incumbent ſtone:</l>
                   <l>
-                     <pb n="41" facs="tcp:020410_0048_0FAF092865415A80"/>Embark undaunted!—on the farther ſide</l>
+                     <pb n="41" facs="unknown:020410_0048_0FAF092865415A80"/>Embark undaunted!—on the farther ſide</l>
                   <l>Thou'lt ſurely find me thy unfailing Guide.</l>
                   <l>Nor let this Pilot raiſe thy groundleſs dread,</l>
                   <l>This ſullen Charon of the froward dead.</l>
@@ -1426,7 +1427,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>When, by the honour'd ſhade of Virgil led</l>
                   <l>Through all the dreary circles of the dead,</l>
                   <l>
-                     <pb n="42" facs="tcp:020410_0049_0FAF0928EE94DDA0"/>Hell's fierceſt Demons threatened to divide</l>
+                     <pb n="42" facs="unknown:020410_0049_0FAF0928EE94DDA0"/>Hell's fierceſt Demons threatened to divide</l>
                   <l n="185">The living Poet from his ſhadowy Guide;</l>
                   <l>And bade him, friendleſs, and alone, return</l>
                   <l>Thro' the dire horrors of the dark ſojourn.</l>
@@ -1460,7 +1461,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>Armies embattled in the blazing air.</l>
                </lg>
                <lg>
-                  <pb n="43" facs="tcp:020410_0050_0FAF092B46F301C8"/>
+                  <pb n="43" facs="unknown:020410_0050_0FAF092B46F301C8"/>
                   <l>AROUND the Nymph unnumber'd phantoms glide</l>
                   <l>Here ſwell the bloated race of bulky Pride:</l>
                   <l>In cloſe and horrid union, there appear</l>
@@ -1493,7 +1494,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>Which writhing, ſtings itſelf in every fold.</l>
                </lg>
                <lg>
-                  <pb n="44" facs="tcp:020410_0051_0FAF092C37F7BA70"/>
+                  <pb n="44" facs="unknown:020410_0051_0FAF092C37F7BA70"/>
                   <l n="240">NEAR her pavilion, in barbaric ſtate,</l>
                   <l>Four Mutes the mandates of their Queen await.</l>
                   <l>From ſickly Fancy bred, by ſullen Sloth,</l>
@@ -1525,7 +1526,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>"Fear not, ſweet Maid," ſhe cries, "my ſteps purſue!</l>
                   <l>Nor gaze too long on this infernal crew!</l>
                   <l>
-                     <pb n="45" facs="tcp:020410_0052_0FAF092CCEF6E6F0"/>Turn from Detraction's faſcinating glaſs!</l>
+                     <pb n="45" facs="unknown:020410_0052_0FAF092CCEF6E6F0"/>Turn from Detraction's faſcinating glaſs!</l>
                   <l>In ſilence croſs the throne! obſerve, and paſs!</l>
                   <l n="270">Beyond this dome, the Palace of the Queen,</l>
                   <l>Her empire winds thro' many a dreary ſcene,</l>
@@ -1554,7 +1555,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>They rear'd their nurſling to the bulk you ſee,</l>
                   <l n="295">And his proud parents call'd the imp ENNUI.</l>
                   <l>
-                     <pb n="46" facs="tcp:020410_0053_0FAF092DB9A3E3D0"/>This realm he rules, and in ſuperb attire</l>
+                     <pb n="46" facs="unknown:020410_0053_0FAF092DB9A3E3D0"/>This realm he rules, and in ſuperb attire</l>
                   <l>Viſits each earthly palace of his Sire:</l>
                   <l>A thouſand ſhapes <gap reason="illegible" resp="#UOM" extent="1 word">
                         <desc>〈◊〉</desc>
@@ -1585,7 +1586,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>Nor Wit, nor Science ſoar his reach above,</l>
                   <l>And oft he ſeizes on ſucceſsful Love.</l>
                   <l>
-                     <pb n="47" facs="tcp:020410_0054_0FAF092E31C43430"/>Of all the radiant hoſt who led their aid</l>
+                     <pb n="47" facs="unknown:020410_0054_0FAF092E31C43430"/>Of all the radiant hoſt who led their aid</l>
                   <l n="325">To light mankind thro' life's bewildering ſhade,</l>
                   <l>Bright Charity alone, with cloudleſs ray,</l>
                   <l>May boaſt exemption from his baneful ſway:</l>
@@ -1620,7 +1621,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                </lg>
                <lg>
                   <l>
-                     <pb n="48" facs="tcp:020410_0055_0FAF092EFAB61B08"/>"THE boundleſs depth of this dire priſon holds</l>
+                     <pb n="48" facs="unknown:020410_0055_0FAF092EFAB61B08"/>"THE boundleſs depth of this dire priſon holds</l>
                   <l>The untam'd ſpirits of imperious Scolds:</l>
                   <l>Nor think that Females only fill the cave!</l>
                   <l n="355">Male Termagants have liv'd, and here they rave.</l>
@@ -1651,7 +1652,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>She, who whene'er ſhe din'd, with furious look,</l>
                   <l>Spurn'd her nice food, and bellow'd at her cook,</l>
                   <l n="380">
-                     <pb n="49" facs="tcp:020410_0056_0FAF092FB7B2F8E0"/>Here juſtly feels a culinary rack,</l>
+                     <pb n="49" facs="unknown:020410_0056_0FAF092FB7B2F8E0"/>Here juſtly feels a culinary rack,</l>
                   <l>Bound, like Ixion, to a whirling Jack.</l>
                </lg>
                <lg>
@@ -1683,7 +1684,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                </lg>
                <lg>
                   <l>
-                     <pb n="50" facs="tcp:020410_0057_0FAF093093CD5DD0"/>OF duſky adamant the dungeon roſe:</l>
+                     <pb n="50" facs="unknown:020410_0057_0FAF093093CD5DD0"/>OF duſky adamant the dungeon roſe:</l>
                   <l>A dingy mirror its dark ſides compoſe,</l>
                   <l>Reflecting, with a thouſand quaint grimaces,</l>
                   <l n="410">The pale inhabitants' diſtorted faces.</l>
@@ -1714,7 +1715,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                         <desc>••</desc>
                      </gap>ing ſpot:</l>
                   <l n="435">
-                     <pb n="51" facs="tcp:020410_0058_0FAF0933F58BAFF8"/>Faſt as one flies, another ſtill ſucceeds,</l>
+                     <pb n="51" facs="unknown:020410_0058_0FAF0933F58BAFF8"/>Faſt as one flies, another ſtill ſucceeds,</l>
                   <l>And with eternal food her fretful humour feeds.</l>
                </lg>
                <lg>
@@ -1747,7 +1748,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>As thus the kind aetherial Guardian ſpoke,</l>
                   <l>Within a rock, whence plaintive murmurs broke,</l>
                   <l>
-                     <pb n="52" facs="tcp:020410_0059_0FAF0934E81B41F8"/>She touch'd a ſecret ſpring, whoſe power was ſuch,</l>
+                     <pb n="52" facs="unknown:020410_0059_0FAF0934E81B41F8"/>She touch'd a ſecret ſpring, whoſe power was ſuch,</l>
                   <l>Two jarring doors unfolded at the touch,</l>
                   <l n="465">And, with the charms of regal ſplendor bright,</l>
                   <l>A cheerful banquet ſparkles to the ſight.</l>
@@ -1776,7 +1777,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>Quick thro' each vein new tides of frenzy roll;</l>
                   <l n="490">All evil paſſions kindle in the ſoul,</l>
                   <l>
-                     <pb n="53" facs="tcp:020410_0060_0FAF09350AB10F80"/>Drive from each feature every chearful grace,</l>
+                     <pb n="53" facs="unknown:020410_0060_0FAF09350AB10F80"/>Drive from each feature every chearful grace,</l>
                   <l>And glare ferocious in the ſallow face;</l>
                   <l>The wounded nerves in furious conflict tear,</l>
                   <l>Then ſink, in black dejection and deſpair.</l>
@@ -1809,7 +1810,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                </lg>
                <lg>
                   <l>
-                     <pb n="54" facs="tcp:020410_0061_0FAF0935C0A36038"/>THIS dungeon croſt, her weary feet ſhe drags</l>
+                     <pb n="54" facs="unknown:020410_0061_0FAF0935C0A36038"/>THIS dungeon croſt, her weary feet ſhe drags</l>
                   <l n="520">Thro' winding caverns, and o'er icy crags:</l>
                   <l>Soul-chilling damps in the dark paſſage reign,</l>
                   <l>Which iſſues on a vaſt and dreary plain,</l>
@@ -1844,7 +1845,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                         <desc>〈◊〉</desc>
                      </gap> the mind:</l>
                   <l>
-                     <pb n="55" facs="tcp:020410_0062_0FAF0936983426D8"/>Who mock Creation with injurious ſcorn,</l>
+                     <pb n="55" facs="unknown:020410_0062_0FAF0936983426D8"/>Who mock Creation with injurious ſcorn,</l>
                   <l>And feel a fancied void in Plenty's horn.</l>
                </lg>
                <lg>
@@ -1875,7 +1876,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>For each forgets, in his bewilder'd gaze,</l>
                   <l>'Tis but a Monſter which he help'd to raiſe.</l>
                   <l n="575">
-                     <pb n="56" facs="tcp:020410_0063_0FAF093735D612F0"/>As o'er its form their dizzy glances roll,</l>
+                     <pb n="56" facs="unknown:020410_0063_0FAF093735D612F0"/>As o'er its form their dizzy glances roll,</l>
                   <l>It ſtrikes a cheerleſs damp thro all the ſoul.</l>
                   <l>Vainly to ſhun the baleful ſight they try,</l>
                   <l>It draws for ever the reluctant eye:</l>
@@ -1906,7 +1907,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>The bonds he mark'd with meaſure ſo preciſe,</l>
                   <l>Of Equine virtue, and of Human vice,</l>
                   <l>
-                     <pb n="57" facs="tcp:020410_0064_0FAF093802D864C0"/>That, curſing Nature's gifts, without remorſe,</l>
+                     <pb n="57" facs="unknown:020410_0064_0FAF093802D864C0"/>That, curſing Nature's gifts, without remorſe,</l>
                   <l>Each ſullen hearer wiſh'd himſelf a Horſe.</l>
                   <l n="605">Pleas'd with the pure effect his ſermon wrought,</l>
                   <l>The ambitious Prieſt a rich Tiara caught,</l>
@@ -1934,7 +1935,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>In vain his piercing cries that ſuccour court:</l>
                   <l>The grizzly King enjoys the cruel ſport.</l>
                   <l n="630">
-                     <pb n="58" facs="tcp:020410_0065_0FAF0938AFD909E8"/>Behold the fierce Yahoo, her victim caught,</l>
+                     <pb n="58" facs="unknown:020410_0065_0FAF0938AFD909E8"/>Behold the fierce Yahoo, her victim caught,</l>
                   <l>Drive her ſharp talons thro' the ſeat of thought!</l>
                   <l>That copious fountain, which too well ſupplied</l>
                   <l>Perverted Ridicule's malignant tide.</l>
@@ -1964,7 +1965,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>What cheering rays of vital comfort roll</l>
                   <l>In thy bright regions o'er the reſcued ſoul,</l>
                   <l n="5">
-                     <pb n="59" facs="tcp:020410_0066_0FAF09399C06CE00"/>Which, 'ſcaping from the dark domain of Spleen,</l>
+                     <pb n="59" facs="unknown:020410_0066_0FAF09399C06CE00"/>Which, 'ſcaping from the dark domain of Spleen,</l>
                   <l>Springs with new warmth to thy attractive ſcene!</l>
                   <l>Once more I bleſs thy pleaſure-breathing gale,</l>
                   <l>And gaze enchanted on thy flowery vale,</l>
@@ -2001,7 +2002,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>Her Fury riſing as her powers encreaſe,</l>
                   <l>O'erturns the altars of domeſtic Peace.</l>
                   <l>
-                     <pb n="60" facs="tcp:020410_0067_0FAF0933017492E8"/>Pleas'd in her dark and gall-diſtilling cloud</l>
+                     <pb n="60" facs="unknown:020410_0067_0FAF0933017492E8"/>Pleas'd in her dark and gall-diſtilling cloud</l>
                   <l>The ſportive form of Innocence to ſhroud,</l>
                   <l n="35">Beauty's young train her baleful eyes ſurvey</l>
                   <l>To mark the faireſt as her favorite prey.</l>
@@ -2032,7 +2033,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>Her quick Compoſitor, whoſe flying hand</l>
                   <l n="60">Has clos'd the paragraph ſhe keenly plann'd.</l>
                   <l>
-                     <pb n="61" facs="tcp:020410_0068_0FAF093C91F993E8"/>No Nymph ſhe nam'd, yet mark'd her vile intent,</l>
+                     <pb n="61" facs="unknown:020410_0068_0FAF093C91F993E8"/>No Nymph ſhe nam'd, yet mark'd her vile intent,</l>
                   <l>That Dullneſs could not miſs the name ſhe meant:</l>
                   <l>In Satire's tints the in<gap reason="illegible" resp="#UOM" extent="1 letter">
                         <desc>•</desc>
@@ -2065,7 +2066,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>The Preſs, whoſe ready gripe the charge receives,</l>
                   <l>Stamps it ſucceſſive on ten thouſand leaves,</l>
                   <l>
-                     <pb n="62" facs="tcp:020410_0069_0FAF093D92E08CD0"/>Which pil'd in heaps impatient ſeem to lie,</l>
+                     <pb n="62" facs="unknown:020410_0069_0FAF093D92E08CD0"/>Which pil'd in heaps impatient ſeem to lie,</l>
                   <l n="90">They only wait the dawn of day to fly.</l>
                </lg>
                <lg>
@@ -2096,7 +2097,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l n="115">And the chill circle of the lone ſaloon</l>
                   <l>Informs the ſhiv'ring Maid ſhe roſe too ſoon.</l>
                   <l>
-                     <pb n="63" facs="tcp:020410_0070_0FAF093DF345D6D8"/>'Tis true, attentive John's unfailing care</l>
+                     <pb n="63" facs="unknown:020410_0070_0FAF093DF345D6D8"/>'Tis true, attentive John's unfailing care</l>
                   <l>Began the rites of breakfaſt to prepare;</l>
                   <l>But yet no fires on the cold altar burn,</l>
                   <l n="120">No ſmoke ariſes from the ſilver urn,</l>
@@ -2131,7 +2132,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>Startled, as one who from electric wire,</l>
                   <l>Unheeding catches unſuſpected fire,</l>
                   <l n="145">
-                     <pb n="64" facs="tcp:020410_0071_0FAF093EC83902D0"/>She reads, then almoſt doubts that ſhe has read,</l>
+                     <pb n="64" facs="unknown:020410_0071_0FAF093EC83902D0"/>She reads, then almoſt doubts that ſhe has read,</l>
                   <l>And thinks ſome viſion hovers round her head.</l>
                   <l>Now, her fixt eye ſome ſtriking words confine,</l>
                   <l>And now ſhe darts it thrice thro' every line;</l>
@@ -2164,7 +2165,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>HER faithful Girdle try'd its power to ſave,</l>
                   <l>And oft a monitory impulſe gave;</l>
                   <l>
-                     <pb n="65" facs="tcp:020410_0072_0FAF093F727A68B8"/>Still unregarded, ſtill unfelt, it preſt</l>
+                     <pb n="65" facs="unknown:020410_0072_0FAF093F727A68B8"/>Still unregarded, ſtill unfelt, it preſt</l>
                   <l>With uſeleſs energy her heaving breaſt,</l>
                   <l n="175">Her mind, forgetful of the magic Zone,</l>
                   <l>Full of the burning ſhaft by Scandal thrown,</l>
@@ -2195,7 +2196,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>Thus her kind aid the friendly Power contriv'd,</l>
                   <l n="200">That, from the quarter whence the wound arriv'd</l>
                   <l>
-                     <pb n="66" facs="tcp:020410_0073_0FAF09402F046C38"/>There flow'd, the anguiſh of that wound to calm,</l>
+                     <pb n="66" facs="unknown:020410_0073_0FAF09402F046C38"/>There flow'd, the anguiſh of that wound to calm,</l>
                   <l>A ſoothing, ſoft, and medicinal balm.</l>
                   <l>As in her agitated hand the Fair</l>
                   <l>Wav'd the looſe Paper with diſorder'd air,</l>
@@ -2229,7 +2230,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>Her burning cheek with deeper crimſon dy'd.</l>
                </lg>
                <lg>
-                  <pb n="67" facs="tcp:020410_0074_0FAF0940F4015AC0"/>
+                  <pb n="67" facs="unknown:020410_0074_0FAF0940F4015AC0"/>
                   <l>O PRAISE! thy language was by Heaven deſign'd</l>
                   <l n="230">As manna to the faint bewilder'd mind:</l>
                   <l>Beauty and Diffidence, whoſe hearts rejoice</l>
@@ -2263,7 +2264,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l n="255">AS Gaity's freſh tide began to roll,</l>
                   <l>Faſt in the ſwelling channel of her ſoul,</l>
                   <l>
-                     <pb n="68" facs="tcp:020410_0075_0FAF0941B48CE568"/>The good old Knight deſcends, tho' eager, ſlow,</l>
+                     <pb n="68" facs="unknown:020410_0075_0FAF0941B48CE568"/>The good old Knight deſcends, tho' eager, ſlow,</l>
                   <l>The Gout ſtill tingling in his tender toe;</l>
                   <l>And now, paternal ſalutations paſt,</l>
                   <l n="260">His eyes he keenly on the Paper caſt,</l>
@@ -2292,7 +2293,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>And on the Printer's law-devoted head,</l>
                   <l>He threaten'd deep revenge in terms moſt dread;</l>
                   <l n="285">
-                     <pb n="69" facs="tcp:020410_0076_0FAF09426DAFE858"/>Terms, that with pain the ear of Beauty pierce,</l>
+                     <pb n="69" facs="unknown:020410_0076_0FAF09426DAFE858"/>Terms, that with pain the ear of Beauty pierce,</l>
                   <l>And oaths too rough to harmonize in verſe.</l>
                </lg>
                <lg>
@@ -2327,7 +2328,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>AS Venus on her ſon's enlighten'd face</l>
                   <l>Shed richer charms, and more attractive grace,</l>
                   <l>
-                     <pb n="70" facs="tcp:020410_0077_0FAF094558C625D8"/>When, iſſuing forth from the diſſolving cloud,</l>
+                     <pb n="70" facs="unknown:020410_0077_0FAF094558C625D8"/>When, iſſuing forth from the diſſolving cloud,</l>
                   <l>His bright form burſt on the admiring crowd:</l>
                   <l n="315">So kind SOPHROSYNE, unſeen, ſupplies</l>
                   <l>A lively radiance to SERENA'S eyes;</l>
@@ -2357,7 +2358,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>Tho' this ſoft breaſt of Innocence may ſmart,</l>
                   <l>By cruel Callumny's corroding dart,</l>
                   <l n="340">
-                     <pb n="71" facs="tcp:020410_0078_0FAF0946462C46C8"/>Yet would ſhe rather ache in every nerve,</l>
+                     <pb n="71" facs="unknown:020410_0078_0FAF0946462C46C8"/>Yet would ſhe rather ache in every nerve,</l>
                   <l>And bear thoſe pangs ſhe knows not to deſerve,</l>
                   <l>Much rather than be made a ſenſeleſs tool,</l>
                   <l>To aid the frenzy of tyrannic rule,</l>
@@ -2391,7 +2392,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>His own true offspring, and a Whig in heart."</l>
                </lg>
                <lg>
-                  <pb n="72" facs="tcp:020410_0079_0FAF094754EEEAD0"/>
+                  <pb n="72" facs="unknown:020410_0079_0FAF094754EEEAD0"/>
                   <l>He ſpoke; and his fond arms around her curl'd</l>
                   <l>With proud graſp, ſeeming to infold the world.</l>
                   <l n="375">Her conſcious heart ſhe feels with triumph beat,</l>
@@ -2423,7 +2424,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>Her tender fancy gave the fondeſt ſcope</l>
                   <l n="395">To ardent Gratitude and eager Hope.</l>
                   <l>
-                     <pb n="73" facs="tcp:020410_0080_0FAF0947BA9698A0"/>"Dear airy Being!" (the ſoft Nymph exclaim'd)</l>
+                     <pb n="73" facs="unknown:020410_0080_0FAF0947BA9698A0"/>"Dear airy Being!" (the ſoft Nymph exclaim'd)</l>
                   <l>"Whoſe power can break the ſpell that Spleen has fram'd</l>
                   <l>Can, by the waving of thy viewleſs wing,</l>
                   <l>O'er darkeſt forms a golden radiance fling,</l>
@@ -2456,7 +2457,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>When darting from her ſtar encircled throne,</l>
                   <l>Her Poet's eye commanded worlds unknown;</l>
                   <l n="5">
-                     <pb n="74" facs="tcp:020410_0081_0FAF0948826090F8"/>When, by her fiat made a mimic God,</l>
+                     <pb n="74" facs="unknown:020410_0081_0FAF0948826090F8"/>When, by her fiat made a mimic God,</l>
                   <l>He ſaw exiſtence waiting on his nod,</l>
                   <l>And at his pleaſure into being brought</l>
                   <l>New ſhadowy hoſts, the vaſſals of his thought,</l>
@@ -2485,7 +2486,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>Shed on my ſoul ſome portion of that power,</l>
                   <l>Which ſav'd SERENA in the trying hour,</l>
                   <l>
-                     <pb n="75" facs="tcp:020410_0082_0FAF09494EC46540"/>To bear thoſe trials, which, however hard,</l>
+                     <pb n="75" facs="unknown:020410_0082_0FAF09494EC46540"/>To bear thoſe trials, which, however hard,</l>
                   <l>As Bards all tell us, may befal the Bard;</l>
                   <l n="35">The Fop's pert jeſt, the Critic's frown ſevere,</l>
                   <l>Learning's proud cant, with Envy's artful ſneer,</l>
@@ -2516,7 +2517,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>SOPHROSYNE deſcends, with guardian Love,</l>
                   <l n="60">To waft her gentle Ward to worlds above.</l>
                   <l>
-                     <pb n="76" facs="tcp:020410_0083_0FAF094A0CB2A410"/>From her faint brow a radiant diadem</l>
+                     <pb n="76" facs="unknown:020410_0083_0FAF094A0CB2A410"/>From her faint brow a radiant diadem</l>
                   <l>Roſe in twelve ſtars, and every ſeparate gem</l>
                   <l>Shot magic rays, of virtue to controul</l>
                   <l>Some paſſion hoſtile to the human ſoul.</l>
@@ -2547,7 +2548,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>For no fleet animals to earth unknown,</l>
                   <l>Bear thro' aetherial fields this flying throne.</l>
                   <l>
-                     <pb n="77" facs="tcp:020410_0084_0FAF094AC1AFEE38"/>As by the ſubtle electrician's ſkill,</l>
+                     <pb n="77" facs="unknown:020410_0084_0FAF094AC1AFEE38"/>As by the ſubtle electrician's ſkill,</l>
                   <l n="90">Globes ſeem to fly, obedient to his will;</l>
                   <l>So theſe four circles of inſtinctive fire</l>
                   <l>Move by the impulſe of their Queen's deſire,</l>
@@ -2580,7 +2581,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l n="115">And now SERENA, from th' exalted car,</l>
                   <l>Look'd down aſtoniſh'd, on each ſinking ſtar;</l>
                   <l>
-                     <pb n="78" facs="tcp:020410_0085_0FAF094B70286A38"/>Flying o'er lucid orbs, whoſe diſtant light</l>
+                     <pb n="78" facs="unknown:020410_0085_0FAF094B70286A38"/>Flying o'er lucid orbs, whoſe diſtant light</l>
                   <l>Yet has not reach'd the ſcope of human ſight:</l>
                   <l>And now, not diſtant from the bounds of Space,</l>
                   <l n="120">The guardian Sprite ſuſpends their rapid race;</l>
@@ -2611,7 +2612,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>Here ſtill they ſaunter, in this languid ſcene;</l>
                   <l>But paſs the dozing crowd, and mark their Quren."</l>
                   <l n="145">
-                     <pb n="79" facs="tcp:020410_0086_0FAF094C5D8AF918"/>And now, ſlow riding on a Tortoiſe' back,</l>
+                     <pb n="79" facs="unknown:020410_0086_0FAF094C5D8AF918"/>And now, ſlow riding on a Tortoiſe' back,</l>
                   <l>Her features lifeleſs, and each fibre ſlack.</l>
                   <l>Full in their view the Nymph Indifference came;</l>
                   <l>The quick SERENA ſoon perceiv'd her name;</l>
@@ -2642,7 +2643,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>"ENOUGH of ſcenes ſo foreign to thy ſoul,"</l>
                   <l>SOPHROSYNE exclaimed<g ref="char:punc">▪</g> "from this dark goal</l>
                   <l>
-                     <pb n="80" facs="tcp:020410_0087_0FAF094F4186A000"/>"Paſs we to regions oppoſite to this."</l>
+                     <pb n="80" facs="unknown:020410_0087_0FAF094F4186A000"/>"Paſs we to regions oppoſite to this."</l>
                   <l>She ſpoke; and darting o'er the wide abyſs,</l>
                   <l n="175">Her car, like lightning in ſoft flaſhes hurl'd,</l>
                   <l>Shot to the confines of a clearer world.</l>
@@ -2671,7 +2672,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>For round its precincts all the flowers that bloom</l>
                   <l n="200">Fill'd the delicious air with ricb perfume;</l>
                   <l>
-                     <pb n="81" facs="tcp:020410_0088_0FAF09502B6A26A8"/>And in the midſt a verdant throne appear'd,</l>
+                     <pb n="81" facs="unknown:020410_0088_0FAF09502B6A26A8"/>And in the midſt a verdant throne appear'd,</l>
                   <l>In ſimpleſt form by graceful Fancy rear'd,</l>
                   <l>And deck'd with flowers, not ſuch whoſe flaunting dyes</l>
                   <l>Strike with the ſtrongeſt tint our dazzled eyes;</l>
@@ -2700,7 +2701,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>The leaves, as conſcious of their Queen's command,</l>
                   <l>Succeſſive fall at her approaching hand:</l>
                   <l>
-                     <pb n="82" facs="tcp:020410_0089_0FAF0951412F7B68"/>While her ſoft breaſt with pity ſeems to pant,</l>
+                     <pb n="82" facs="unknown:020410_0089_0FAF0951412F7B68"/>While her ſoft breaſt with pity ſeems to pant,</l>
                   <l n="230">And ſhrinks at every ſhrinking of the plant.</l>
                </lg>
                <lg>
@@ -2731,7 +2732,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l n="255">The wither'd flowers are fall'n, that bloom'd ſo fair,</l>
                   <l>And poiſon all the peſtilential air.</l>
                   <l>
-                     <pb n="83" facs="tcp:020410_0090_0FAF0951841BE910"/>From the rent earth dark Demons force their way,</l>
+                     <pb n="83" facs="unknown:020410_0090_0FAF0951841BE910"/>From the rent earth dark Demons force their way,</l>
                   <l>And make the ſportive revellers their prey.</l>
                   <l>Here gloomy Terror, with a ſhadowy rope,</l>
                   <l n="260">Seems like a Turkiſh Mute, to ſtrangle Hope:</l>
@@ -2762,7 +2763,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>Yet happier theſe, to Nature's heart more dear,</l>
                   <l>Then the dull offspring in the torpid ſphere,</l>
                   <l n="285">
-                     <pb n="84" facs="tcp:020410_0091_0FAF0952672BB1D8"/>Where her warm wiſhes, and affections kind,</l>
+                     <pb n="84" facs="unknown:020410_0091_0FAF0952672BB1D8"/>Where her warm wiſhes, and affections kind,</l>
                   <l>Loſe their bright current in the ſtagnant mind.</l>
                   <l>Here grief and joy ſo ſuddenly unite,</l>
                   <l>That anguiſh ſerves to ſublimate delight."</l>
@@ -2792,7 +2793,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l n="310">Her curious thoughts with fond attachment burn,</l>
                   <l>Yet more of this engaging land to learn.</l>
                   <l>
-                     <pb n="85" facs="tcp:020410_0092_0FAF095355255098"/>She finds the chief attendants of the Queen,</l>
+                     <pb n="85" facs="unknown:020410_0092_0FAF095355255098"/>She finds the chief attendants of the Queen,</l>
                   <l>Sweet Females, wafted from our human ſcene;</l>
                   <l n="315">But, as it chanc'd, while all the realm reviv'd,</l>
                   <l>A Spirit maſculine from earth arriv'd;</l>
@@ -2820,7 +2821,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>And now SERENA, with ſuſpended breath,</l>
                   <l>Liſten'd, and caught the tale of JULIA'S death;</l>
                   <l>
-                     <pb n="86" facs="tcp:020410_0093_0FAF0953C9540408"/>And quick ſhe cries, ere tears had time to flow,</l>
+                     <pb n="86" facs="unknown:020410_0093_0FAF0953C9540408"/>And quick ſhe cries, ere tears had time to flow,</l>
                   <l n="340">"Bleſt be this hour! for now I ſee ROUSSEAU."</l>
                   <l>Fondly ſhe gaz'd, till the enchanting ſound</l>
                   <l>In ſuch a potent ſpell her ſpirit bound,</l>
@@ -2852,7 +2853,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>Leads her ſweet Gueſt to her celeſtial dome.</l>
                </lg>
                <lg>
-                  <pb n="87" facs="tcp:020410_0094_0FAF095473F69CC0"/>
+                  <pb n="87" facs="unknown:020410_0094_0FAF095473F69CC0"/>
                   <l>GENTLEST of Powers! for every purpoſe fit,</l>
                   <l>To ſtrengthen Wiſdom, and embelliſh Wit;—</l>
                   <l>Thou whoſe ſoft arts, poſſeſs'd by thee alone,</l>
@@ -2884,7 +2885,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>Here ſtands Conviction's ſtrong and lucid ſpear,</l>
                   <l>Whoſe touch annihilates ſuſpenſe and Fear;</l>
                   <l n="395">
-                     <pb n="88" facs="tcp:020410_0095_0FAF095541AD5628"/>Here Truth's unſullied adamantine ſhield,</l>
+                     <pb n="88" facs="unknown:020410_0095_0FAF095541AD5628"/>Here Truth's unſullied adamantine ſhield,</l>
                   <l>Which, ſave SOPHROSYNE, no Power can wield;</l>
                   <l>And Reaſon's trenchant blade of blazing ſteel,</l>
                   <l>Its edge and poliſh form'd by friendly Zeal;</l>
@@ -2915,7 +2916,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>Would ſeem more humble than the waxen cell</l>
                   <l>In which the ſkilful Bee is proud to dwell.</l>
                   <l>
-                     <pb n="89" facs="tcp:020410_0096_0FAF095628CBD130"/>Here ſits a Power, in whoſe angelic face</l>
+                     <pb n="89" facs="unknown:020410_0096_0FAF095628CBD130"/>Here ſits a Power, in whoſe angelic face</l>
                   <l>Beauty is ſweeten'd by maternal grace;</l>
                   <l n="425">Her radiant ſeat, ſurpaſſing mortal art,</l>
                   <l>Supports an emblem of her liberal heart,</l>
@@ -2948,7 +2949,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                         <desc>〈◊〉</desc>
                      </gap> innocents that round her preſs.</l>
                   <l>
-                     <pb n="90" facs="tcp:020410_0097_0FAF0956AE8AB028"/>Delights to ſee them, as her love they ſhare,</l>
+                     <pb n="90" facs="unknown:020410_0097_0FAF0956AE8AB028"/>Delights to ſee them, as her love they ſhare,</l>
                   <l>Sport in her ſight, and flouriſh by her care;</l>
                   <l>Fondly reſponſive to their every call,</l>
                   <l>Tender of each, and provident for all:</l>
@@ -2981,7 +2982,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>If aught of earthly ſentiment may vie</l>
                   <l>With the pure joy theſe happy ſcenes ſupply,</l>
                   <l>
-                     <pb n="91" facs="tcp:020410_0098_0FAF095935A1B898"/>'Tis when, unmixt with trouble and with pain,</l>
+                     <pb n="91" facs="unknown:020410_0098_0FAF095935A1B898"/>'Tis when, unmixt with trouble and with pain,</l>
                   <l n="480">Love glides in ſecret thro' the glowing vein;</l>
                   <l>When ſome fond Youth, unconſcious of its fire,</l>
                   <l>Free from chill Fear and turbulent Deſire,</l>
@@ -3012,7 +3013,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l n="505">No fiery Sun here forms a ſcorching noon,</l>
                   <l>No baleful Meteor gleams, no chilling Moon:</l>
                   <l>
-                     <pb n="92" facs="tcp:020410_0099_0FAF082F5C2DF958"/>But, from a latent ſource, one ſoothing light,</l>
+                     <pb n="92" facs="unknown:020410_0099_0FAF082F5C2DF958"/>But, from a latent ſource, one ſoothing light,</l>
                   <l>Whoſe conſtant rays repel the miſt of night,</l>
                   <l>Tho' tender, chearful, and tho' warm, ſerene,</l>
                   <l n="510">Gives laſting beauty to the lovely ſcene.</l>
@@ -3043,7 +3044,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>Whoſe feeling heart, with all a Mother's care,</l>
                   <l>Bear'd the young offspring of a rival Fair.</l>
                   <l n="535">
-                     <pb n="93" facs="tcp:020410_0100_0FAF082FF486AF90"/>Far otter trials raiſ'd yon lovely crew,</l>
+                     <pb n="93" facs="unknown:020410_0100_0FAF082FF486AF90"/>Far otter trials raiſ'd yon lovely crew,</l>
                   <l>Tho' in connubial ſcenes their merit grew:</l>
                   <l>It was their chance, ere judgment was mature,</l>
                   <l>When glittering toys the infant mind allure,</l>
@@ -3073,7 +3074,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>To watch the weakneſs of parental age.</l>
                </lg>
                <lg>
-                  <pb n="94" facs="tcp:020410_0101_0FAF0830F091AF70"/>
+                  <pb n="94" facs="unknown:020410_0101_0FAF0830F091AF70"/>
                   <l>"SUCH are theſe gentle tribes, the happy few</l>
                   <l>Who ſhare the triumph to their victory due:</l>
                   <l n="565">Angelic aims their ſpotleſs minds employ,</l>
@@ -3105,7 +3106,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>Teach men to cheriſh their fraternal tie,</l>
                   <l n="590">And view kind Nature with a filial eye;</l>
                   <l>
-                     <pb n="95" facs="tcp:020410_0102_0FAF083178C785C0"/>This active Spirit catches in her flight,</l>
+                     <pb n="95" facs="unknown:020410_0102_0FAF083178C785C0"/>This active Spirit catches in her flight,</l>
                   <l>Skill'd to retain, and happy to recite.</l>
                   <l>Here ſhe delivers each bright work, and each</l>
                   <l>Derives new beauty from her graceful ſpeech.</l>
@@ -3140,7 +3141,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>No baleful arrow in his quiver lies,</l>
                   <l>No blinding veil enwraps his ſparkling eyes;</l>
                   <l>
-                     <pb n="96" facs="tcp:020410_0103_0FAF08324816C530"/>There all the rays of varied joy unite,</l>
+                     <pb n="96" facs="unknown:020410_0103_0FAF08324816C530"/>There all the rays of varied joy unite,</l>
                   <l n="620">And jointly ſhed unſpeakable delight.</l>
                   <l>With him was Frienſhip, like a virgin dreſt,</l>
                   <l>The ſoft Abeſtos form'd her ſimple veſt,</l>
@@ -3171,7 +3172,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l n="645">THE bleſt SERENA drinks, with raviſh'd ear,</l>
                   <l>The melting muſic of the tuneful ſphere.</l>
                   <l>
-                     <pb n="97" facs="tcp:020410_0104_0FAF0832F482A468"/>Now in it cloſe the ſoothing echoes roll</l>
+                     <pb n="97" facs="unknown:020410_0104_0FAF0832F482A468"/>Now in it cloſe the ſoothing echoes roll</l>
                   <l>O'er her wrapt fancy, and intrance her ſoul;</l>
                   <l>Her ſenſes ſink in ſoft Oblivion's bands,</l>
                   <l n="650">'Till faithful Jenny at her pillow ſtands,</l>
@@ -3201,7 +3202,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>Still ſo enwrapt in Pleaſure's gay diſguiſe,</l>
                   <l>They lurk inviſible to Caution's eyes;</l>
                   <l n="15">
-                     <pb n="98" facs="tcp:020410_0105_0FAF0833CF9A2FB8"/>And, unſuſpected to the Fair one, wait</l>
+                     <pb n="98" facs="unknown:020410_0105_0FAF0833CF9A2FB8"/>And, unſuſpected to the Fair one, wait</l>
                   <l>To cancel or confirm her bliſsful fate.</l>
                </lg>
                <lg>
@@ -3235,7 +3236,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>Has plann'd in honour of the lovely Maid,</l>
                   <l>A fancied Ball<g ref="char:punc">▪</g> a private Maſquerade,</l>
                   <l>
-                     <pb n="99" facs="tcp:020410_0106_0FAF08346ECFEEB8"/>And ſupplicate her Sire, with warm eſteem,</l>
+                     <pb n="99" facs="unknown:020410_0106_0FAF08346ECFEEB8"/>And ſupplicate her Sire, with warm eſteem,</l>
                   <l>To ſmile indulgent on the feſtive ſcheme.</l>
                   <l n="45">All arts he uſes to inſure the grant,</l>
                   <l>Nor leaves unaſk'd the eager maiden Aunt.</l>
@@ -3265,7 +3266,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l n="70">The heavieſt burden of connubial care.</l>
                </lg>
                <lg>
-                  <pb n="100" facs="tcp:020410_0107_0FAF083711F3CB70"/>
+                  <pb n="100" facs="unknown:020410_0107_0FAF083711F3CB70"/>
                   <l>THO' different Phantoms dance before their ſight,</l>
                   <l>Niece, Aunt, and Father, in one wiſh unite,</l>
                   <l>To join their banquet is their common choice,</l>
@@ -3295,7 +3296,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>The jocund crowd, who throng'd with me to gaze,</l>
                   <l>Extoll'd my unpremeditated lays,</l>
                   <l>
-                     <pb n="101" facs="tcp:020410_0108_0FAF083808FF6BC8"/>And Sport, who ſtill of this old revel brags,</l>
+                     <pb n="101" facs="unknown:020410_0108_0FAF083808FF6BC8"/>And Sport, who ſtill of this old revel brags,</l>
                   <l>
                      <note n="*" place="bottom">
                         <q>
@@ -3332,7 +3333,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>Heard the firm Knight, his fixt reſolve impart,</l>
                   <l>Tickling at once and torturing her heart.</l>
                   <l n="125">
-                     <pb n="102" facs="tcp:020410_0109_0FAF0838315447D8"/>The Ball ſhe reliſh'd, but abhorr'd the taſk</l>
+                     <pb n="102" facs="unknown:020410_0109_0FAF0838315447D8"/>The Ball ſhe reliſh'd, but abhorr'd the taſk</l>
                   <l>To hide her beauties in a Beldam's maſk:</l>
                   <l>Miranda's name would better ſuit her plan,</l>
                   <l>A ſimple Maiden, not afraid of Man;</l>
@@ -3361,7 +3362,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>Doubting that beauty, which ſhe doubts alone,</l>
                   <l>Which dazzles every eye except her own.</l>
                   <l>
-                     <pb n="103" facs="tcp:020410_0110_0FAF08392491F810"/>The native diffidence which ſway'd her mind,</l>
+                     <pb n="103" facs="unknown:020410_0110_0FAF08392491F810"/>The native diffidence which ſway'd her mind,</l>
                   <l>Now feels new terrors with its own combin'd;</l>
                   <l n="155">The robes of Ariel to the Nymph recal</l>
                   <l>Thoſe diſappointments that may yet befal;</l>
@@ -3392,7 +3393,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>Watches unceaſing the pernicious flame,</l>
                   <l n="180">Terror and Hope contending in his frame,</l>
                   <l>
-                     <pb n="104" facs="tcp:020410_0111_0FAF0839C67D4140"/>While his fair work the dangerous fire ſuſtains,</l>
+                     <pb n="104" facs="unknown:020410_0111_0FAF0839C67D4140"/>While his fair work the dangerous fire ſuſtains,</l>
                   <l>Feels it in all his ſympathetic veins,</l>
                   <l>And at each trivial ſound that Chance may cauſe,</l>
                   <l>Hears the Gem crack, and ſees its cruel flaws:</l>
@@ -3421,7 +3422,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l n="205">No veſtiges of modern pomp appear,</l>
                   <l>No modern melody ſalutes her ear:</l>
                   <l>
-                     <pb n="105" facs="tcp:020410_0112_0FAF083ACD6ED3D8"/>With Mooriſh notes the echoing manſion rings,</l>
+                     <pb n="105" facs="unknown:020410_0112_0FAF083ACD6ED3D8"/>With Mooriſh notes the echoing manſion rings,</l>
                   <l>And its tranſmuted form to Fancy brings</l>
                   <l>The rich <note n="*" place="bottom">
                         <gap reason="illegible" resp="#UOM" extent="1 span">
@@ -3455,7 +3456,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>His houſe compleat, its decorations plac'd,</l>
                   <l>By the ſure hand of faſhionable Taſte,</l>
                   <l>
-                     <pb n="106" facs="tcp:020410_0113_0FAF083D51631878"/>He only wants, to crown his modiſh life,</l>
+                     <pb n="106" facs="unknown:020410_0113_0FAF083D51631878"/>He only wants, to crown his modiſh life,</l>
                   <l n="235">That laſt and fineſt moveable—a Wife.</l>
                   <l>She too muſt prove, to fix his coy deſire,</l>
                   <l>Such as the eye of Faſhion will admire.</l>
@@ -3484,7 +3485,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l n="260">And, ſooth to ſay, within a comely frame,</l>
                   <l>He bore a heart that anſwer'd to the name;</l>
                   <l>
-                     <pb n="107" facs="tcp:020410_0114_0FAF083E63C1D2E8"/>For this neat habit deck'd a generous Youth,</l>
+                     <pb n="107" facs="unknown:020410_0114_0FAF083E63C1D2E8"/>For this neat habit deck'd a generous Youth,</l>
                   <l>Of gentleſt manners, and ſincereſt truth.</l>
                   <l>Tho' on his birth propitious fortune ſmil'd,</l>
                   <l n="265">No proud parental folly ſpoil'd the Child;</l>
@@ -3515,7 +3516,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>Seem anxious to ſuſpend her doubtful fate.</l>
                </lg>
                <lg>
-                  <pb n="108" facs="tcp:020410_0115_0FAF083EF21D6C08"/>
+                  <pb n="108" facs="unknown:020410_0115_0FAF083EF21D6C08"/>
                   <l>Now ſocial Eaſe the place of Sport ſupplied,</l>
                   <l n="290">The hot oppreſſive maſk was thrown aſide,</l>
                   <l>And Beauty ſhone reveal'd in all her bluſhing pride.</l>
@@ -3546,7 +3547,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>As now the ſprightly muſic paus'd, my Lord</l>
                   <l n="315">Eager reſolv'd to touch the ſofter chord;</l>
                   <l>
-                     <pb n="199" facs="tcp:020410_0116_0FAF083FB4F2A448"/>Secure of all repulſe, he vainly meant</l>
+                     <pb n="199" facs="unknown:020410_0116_0FAF083FB4F2A448"/>Secure of all repulſe, he vainly meant</l>
                   <l>Half to diſplay, half hide his fond intent,</l>
                   <l>And, in diſſembled Paſſion's flowery tropes,</l>
                   <l>To ſport at leiſure with the Virgin's hopes:</l>
@@ -3575,7 +3576,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>Thy breaſt in vain with penitence may burn;</l>
                   <l>But once neglected, I no more return."</l>
                   <l>
-                     <pb n="110" facs="tcp:020410_0117_0FAF0840AEBCC478"/>Thus loudly ſpeaking, with diſtemper'd heat,</l>
+                     <pb n="110" facs="unknown:020410_0117_0FAF0840AEBCC478"/>Thus loudly ſpeaking, with diſtemper'd heat,</l>
                   <l n="345">Rudely he turn'd with rancorous ſcorn replete.</l>
                   <l>SERENA, ſtartled at th' injurious ſound,</l>
                   <l>Survey'd th' inſulting Peer, who ſternly frown'd;</l>
@@ -3604,7 +3605,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l n="370">This horrid omen, ye kind Powers! avert:</l>
                   <l>Nor thou, bright Zone! thy brighter Charge deſert.</l>
                   <l>
-                     <pb n="111" facs="tcp:020410_0118_0FAF08412F8C7858"/>Ah, fruitleſs prayer! her panting breaſt behold!</l>
+                     <pb n="111" facs="unknown:020410_0118_0FAF08412F8C7858"/>Ah, fruitleſs prayer! her panting breaſt behold!</l>
                   <l>See! the gauze ſhakes in many a ruffled fold!</l>
                   <l>Forc'd from their ſtation by her heaving heart,</l>
                   <l n="375">From the ſtrain'd Girdle thrice three ſpangles ſtart:</l>
@@ -3633,7 +3634,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>He anſwers not; but, with a ſullen air,</l>
                   <l>On happier EDWIN, who approach'd the Fair,</l>
                   <l n="400">
-                     <pb n="112" facs="tcp:020410_0119_0FAF0843E46B4DA0"/>Darts ſuch a glance of rage and envious hate</l>
+                     <pb n="112" facs="unknown:020410_0119_0FAF0843E46B4DA0"/>Darts ſuch a glance of rage and envious hate</l>
                   <l>As Satan caſt on Eden's bliſsful ſtate,</l>
                   <l>When on our Parents firſt he fixt his ſight,</l>
                   <l>And undelighted gaz'd on all delight:</l>
@@ -3663,7 +3664,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l n="425">Full on her thought the friendly viſſions ruſh'd;</l>
                   <l>Bluſhing ſhe view'd him, view'd him ſtill and bluſh'd</l>
                   <l>
-                     <pb n="113" facs="tcp:020410_0120_0FAF0844EF57A100"/>And, ſoft Affection quickening at the ſight,</l>
+                     <pb n="113" facs="unknown:020410_0120_0FAF0844EF57A100"/>And, ſoft Affection quickening at the ſight,</l>
                   <l>Perchance had ſwoon'd with fulneſs of delight,</l>
                   <l>But that her Father's voice, with quick controul,</l>
                   <l n="430">Recal'd the functions of her fainting ſoul.</l>
@@ -3694,7 +3695,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>That his embarraſs'd Child his ſentence caught;</l>
                   <l>With each tumultuous ſign of tender thought;</l>
                   <l n="455">
-                     <pb n="114" facs="tcp:020410_0121_0FB087EF52AFCC58"/>Whoſe bluſhes, ſpringing from the heart, declare</l>
+                     <pb n="114" facs="unknown:020410_0121_0FB087EF52AFCC58"/>Whoſe bluſhes, ſpringing from the heart, declare</l>
                   <l>The dawn of fondneſs in the modeſt Fair.</l>
                   <l>Th' enchanted Youth with extacy convey'd</l>
                   <l>Forth from the troubled Feaſt the trembling Maid.</l>
@@ -3725,7 +3726,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>Thro' her glad Sire no gouty humours run,</l>
                   <l>Jocund he glories in his deſtin'd Son.</l>
                   <l>
-                     <pb n="115" facs="tcp:020410_0122_0FAF0845E0A03028"/>PENELOPE herſelf, no longer ſeen</l>
+                     <pb n="115" facs="unknown:020410_0122_0FAF0845E0A03028"/>PENELOPE herſelf, no longer ſeen</l>
                   <l>In the four ſemblance of tormenting Spleen,</l>
                   <l n="485">Buys for her Niece the robes of nuptial ſtate,</l>
                   <l>Nor ſcolds the Mercer once thro' all the long debate.</l>
@@ -3754,7 +3755,7 @@ as the anxiety of authors is ſo apt to produce, from the reflection, that, howe
                   <l>Friendſhip, ſweet ſmiling, fill'd the ſecond place,</l>
                   <l n="510">In all the ſofter charms of Virgin grace.</l>
                   <l>
-                     <pb n="116" facs="tcp:020410_0123_0FAF08467A104200"/>Their meeting arms a myſtic tablet raiſe;</l>
+                     <pb n="116" facs="unknown:020410_0123_0FAF08467A104200"/>Their meeting arms a myſtic tablet raiſe;</l>
                   <l>Deck'd with theſe lines, the moral of my Lays:—</l>
                   <l>"VIRTUE'S an ingot of Peruvian gold,</l>
                   <l>SENSE the bright ore Potoſi's mines unfold;</l>
